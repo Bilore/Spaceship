@@ -32,7 +32,7 @@
     "webpack-dev-server": "^1.8.2"
   },
   "dependencies": {
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.13",
     "react": "^0.13.0",
     "seedrandom": "^2.4.2"
   }
